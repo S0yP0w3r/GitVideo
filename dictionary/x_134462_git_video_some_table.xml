@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Some Table" max_length="40" name="x_134462_git_video_some_table" type="collection">
+        <element label="Color" max_length="40" name="color" type="color"/>
+        <element label="Name" max_length="40" name="name" type="string"/>
+    </element>
+</database>
