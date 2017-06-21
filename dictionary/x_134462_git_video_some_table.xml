@@ -2,6 +2,7 @@
 <database>
     <element audit="true" label="Some Table" max_length="40" name="x_134462_git_video_some_table" type="collection">
         <element label="3rd Color" max_length="40" name="3rd_color" type="color"/>
+        <element label="4th Color" max_length="40" name="4th_color" type="color"/>
         <element label="Another Color" max_length="40" name="another_color" type="color"/>
         <element label="Color" max_length="40" name="color" type="color"/>
         <element label="Name" max_length="40" name="name" type="string"/>

@@ -4,11 +4,11 @@
         <sys_ui_annotation action="INSERT_OR_UPDATE">
             <is_plain_text>false</is_plain_text>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-06-21 16:39:56</sys_created_on>
-            <sys_id>1ea920784f233200deb53ce18110c709</sys_id>
+            <sys_created_on>2017-06-21 17:06:52</sys_created_on>
+            <sys_id>89df283c4f233200deb53ce18110c7e4</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-06-21 16:39:56</sys_updated_on>
+            <sys_updated_on>2017-06-21 17:06:52</sys_updated_on>
             <text/>
             <type display_value="Info Box Blue">753f88a80f930000b12e6903cfe01206</type>
         </sys_ui_annotation>
@@ -16,13 +16,13 @@
             <element>name</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-06-21 16:39:56</sys_created_on>
-            <sys_id>22a920784f233200deb53ce18110c70b</sys_id>
+            <sys_created_on>2017-06-21 17:06:52</sys_created_on>
+            <sys_id>cddf6c3c4f233200deb53ce18110c750</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_134462_git_video_some_table" sys_domain="global" view="ec69a8784f233200deb53ce18110c728">a469a8784f233200deb53ce18110c72e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-06-21 16:39:56</sys_updated_on>
+            <sys_updated_on>2017-06-21 17:06:52</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -30,13 +30,13 @@
             <element>color</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-06-21 16:39:56</sys_created_on>
-            <sys_id>a2a920784f233200deb53ce18110c70b</sys_id>
+            <sys_created_on>2017-06-21 17:06:52</sys_created_on>
+            <sys_id>41df6c3c4f233200deb53ce18110c751</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_134462_git_video_some_table" sys_domain="global" view="ec69a8784f233200deb53ce18110c728">a469a8784f233200deb53ce18110c72e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-06-21 16:39:56</sys_updated_on>
+            <sys_updated_on>2017-06-21 17:06:52</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -44,13 +44,13 @@
             <element>another_color</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-06-21 16:39:56</sys_created_on>
-            <sys_id>26a920784f233200deb53ce18110c70b</sys_id>
+            <sys_created_on>2017-06-21 17:06:52</sys_created_on>
+            <sys_id>c1df6c3c4f233200deb53ce18110c751</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_134462_git_video_some_table" sys_domain="global" view="ec69a8784f233200deb53ce18110c728">a469a8784f233200deb53ce18110c72e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-06-21 16:39:56</sys_updated_on>
+            <sys_updated_on>2017-06-21 17:06:52</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -58,167 +58,181 @@
             <element>3rd_color</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-06-21 16:39:56</sys_created_on>
-            <sys_id>a6a920784f233200deb53ce18110c70b</sys_id>
+            <sys_created_on>2017-06-21 17:06:52</sys_created_on>
+            <sys_id>45df6c3c4f233200deb53ce18110c751</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_134462_git_video_some_table" sys_domain="global" view="ec69a8784f233200deb53ce18110c728">a469a8784f233200deb53ce18110c72e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-06-21 16:39:56</sys_updated_on>
+            <sys_updated_on>2017-06-21 17:06:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>4th_color</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-21 17:06:52</sys_created_on>
+            <sys_id>c5df6c3c4f233200deb53ce18110c751</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_134462_git_video_some_table" sys_domain="global" view="ec69a8784f233200deb53ce18110c728">a469a8784f233200deb53ce18110c72e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-21 17:06:52</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>REL.x_134462_git_video_some_table.REL:b9edf0ca0a0a0b010035de2d6b579a03</element>
-            <position>4</position>
+            <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-06-21 16:39:56</sys_created_on>
-            <sys_id>2aa920784f233200deb53ce18110c70b</sys_id>
+            <sys_created_on>2017-06-21 17:06:52</sys_created_on>
+            <sys_id>49df6c3c4f233200deb53ce18110c751</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_134462_git_video_some_table" sys_domain="global" view="ec69a8784f233200deb53ce18110c728">a469a8784f233200deb53ce18110c72e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-06-21 16:39:56</sys_updated_on>
+            <sys_updated_on>2017-06-21 17:06:52</sys_updated_on>
             <sys_user/>
             <type>list</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>sys_created_on</element>
-            <position>5</position>
+            <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-06-21 16:39:56</sys_created_on>
-            <sys_id>aaa920784f233200deb53ce18110c70b</sys_id>
+            <sys_created_on>2017-06-21 17:06:52</sys_created_on>
+            <sys_id>c9df6c3c4f233200deb53ce18110c751</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_134462_git_video_some_table" sys_domain="global" view="ec69a8784f233200deb53ce18110c728">a469a8784f233200deb53ce18110c72e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-06-21 16:39:56</sys_updated_on>
+            <sys_updated_on>2017-06-21 17:06:52</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>sys_created_by</element>
-            <position>6</position>
+            <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-06-21 16:39:56</sys_created_on>
-            <sys_id>2ea920784f233200deb53ce18110c70b</sys_id>
+            <sys_created_on>2017-06-21 17:06:52</sys_created_on>
+            <sys_id>4ddf6c3c4f233200deb53ce18110c751</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_134462_git_video_some_table" sys_domain="global" view="ec69a8784f233200deb53ce18110c728">a469a8784f233200deb53ce18110c72e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-06-21 16:39:56</sys_updated_on>
+            <sys_updated_on>2017-06-21 17:06:52</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>sys_updated_on</element>
-            <position>7</position>
+            <position>8</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-06-21 16:39:56</sys_created_on>
-            <sys_id>aea920784f233200deb53ce18110c70b</sys_id>
+            <sys_created_on>2017-06-21 17:06:52</sys_created_on>
+            <sys_id>cddf6c3c4f233200deb53ce18110c751</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_134462_git_video_some_table" sys_domain="global" view="ec69a8784f233200deb53ce18110c728">a469a8784f233200deb53ce18110c72e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-06-21 16:39:56</sys_updated_on>
+            <sys_updated_on>2017-06-21 17:06:52</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>sys_updated_by</element>
-            <position>8</position>
+            <position>9</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-06-21 16:39:56</sys_created_on>
-            <sys_id>22a920784f233200deb53ce18110c70c</sys_id>
+            <sys_created_on>2017-06-21 17:06:52</sys_created_on>
+            <sys_id>41df6c3c4f233200deb53ce18110c752</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_134462_git_video_some_table" sys_domain="global" view="ec69a8784f233200deb53ce18110c728">a469a8784f233200deb53ce18110c72e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-06-21 16:39:56</sys_updated_on>
+            <sys_updated_on>2017-06-21 17:06:52</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>sys_mod_count</element>
-            <position>9</position>
+            <position>10</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-06-21 16:39:56</sys_created_on>
-            <sys_id>a2a920784f233200deb53ce18110c70c</sys_id>
+            <sys_created_on>2017-06-21 17:06:52</sys_created_on>
+            <sys_id>c1df6c3c4f233200deb53ce18110c752</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_134462_git_video_some_table" sys_domain="global" view="ec69a8784f233200deb53ce18110c728">a469a8784f233200deb53ce18110c72e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-06-21 16:39:56</sys_updated_on>
+            <sys_updated_on>2017-06-21 17:06:52</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>activity.xml</element>
-            <position>10</position>
+            <position>11</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-06-21 16:39:56</sys_created_on>
-            <sys_id>26a920784f233200deb53ce18110c70c</sys_id>
+            <sys_created_on>2017-06-21 17:06:52</sys_created_on>
+            <sys_id>45df6c3c4f233200deb53ce18110c752</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter display_value="Activities (filtered)">444ea5c6bf310100e628555b3f0739d6</sys_ui_formatter>
             <sys_ui_section caption="NULL" display_value="" name="x_134462_git_video_some_table" sys_domain="global" view="ec69a8784f233200deb53ce18110c728">a469a8784f233200deb53ce18110c72e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-06-21 16:39:56</sys_updated_on>
+            <sys_updated_on>2017-06-21 17:06:52</sys_updated_on>
             <sys_user/>
             <type>formatter</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>cxs_table_search.xml</element>
-            <position>11</position>
+            <position>12</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-06-21 16:39:56</sys_created_on>
-            <sys_id>6aa92c784f233200deb53ce18110c776</sys_id>
+            <sys_created_on>2017-06-21 17:06:52</sys_created_on>
+            <sys_id>49df6c3c4f233200deb53ce18110c752</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter display_value="Contextual Search Results">11eb1622eb1121003623666cd206fe56</sys_ui_formatter>
             <sys_ui_section caption="NULL" display_value="" name="x_134462_git_video_some_table" sys_domain="global" view="ec69a8784f233200deb53ce18110c728">a469a8784f233200deb53ce18110c72e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-06-21 16:39:56</sys_updated_on>
+            <sys_updated_on>2017-06-21 17:06:52</sys_updated_on>
             <sys_user/>
             <type>formatter</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>ratings.xml</element>
-            <position>12</position>
+            <position>13</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-06-21 16:39:56</sys_created_on>
-            <sys_id>2ea92c784f233200deb53ce18110c776</sys_id>
+            <sys_created_on>2017-06-21 17:06:52</sys_created_on>
+            <sys_id>0ddf6c3c4f233200deb53ce18110c752</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter display_value="Ratings">a3340f6bd7111100158ba6859e610331</sys_ui_formatter>
             <sys_ui_section caption="NULL" display_value="" name="x_134462_git_video_some_table" sys_domain="global" view="ec69a8784f233200deb53ce18110c728">a469a8784f233200deb53ce18110c72e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-06-21 16:39:56</sys_updated_on>
+            <sys_updated_on>2017-06-21 17:06:52</sys_updated_on>
             <sys_user/>
             <type>formatter</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>1ea920784f233200deb53ce18110c709</element>
-            <position>13</position>
+            <element>89df283c4f233200deb53ce18110c7e4</element>
+            <position>14</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-06-21 16:39:56</sys_created_on>
-            <sys_id>eea92c784f233200deb53ce18110c776</sys_id>
+            <sys_created_on>2017-06-21 17:06:52</sys_created_on>
+            <sys_id>cddf6c3c4f233200deb53ce18110c752</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_134462_git_video_some_table" sys_domain="global" view="ec69a8784f233200deb53ce18110c728">a469a8784f233200deb53ce18110c72e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-06-21 16:39:56</sys_updated_on>
+            <sys_updated_on>2017-06-21 17:06:52</sys_updated_on>
             <sys_user/>
             <type>annotation</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>d6a920784f233200deb53ce18110c70a</element>
-            <position>14</position>
+            <position>15</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-06-21 16:39:56</sys_created_on>
-            <sys_id>62a92c784f233200deb53ce18110c777</sys_id>
+            <sys_created_on>2017-06-21 17:06:52</sys_created_on>
+            <sys_id>41df6c3c4f233200deb53ce18110c753</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_134462_git_video_some_table" sys_domain="global" view="ec69a8784f233200deb53ce18110c728">a469a8784f233200deb53ce18110c72e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-06-21 16:39:56</sys_updated_on>
+            <sys_updated_on>2017-06-21 17:06:52</sys_updated_on>
             <sys_user/>
             <type>chart</type>
         </sys_ui_element>
