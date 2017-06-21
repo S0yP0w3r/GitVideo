@@ -5,7 +5,7 @@
         <array>false</array>
         <array_denormalized>false</array_denormalized>
         <attributes/>
-        <audit>false</audit>
+        <audit>true</audit>
         <calculation><![CDATA[(function calculatedFieldValue(current) {
 
 	// Add your code here
@@ -53,8 +53,8 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-06-20 19:10:52</sys_created_on>
         <sys_customer_update>true</sys_customer_update>
-        <sys_id>33920c2c4f633200deb53ce18110c753</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_id>3866e4b44f233200deb53ce18110c74b</sys_id>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>x_134462_git_video_some_table</sys_name>
         <sys_package display_value="Git Video" source="x_134462_git_video">78e1442c4f633200deb53ce18110c7df</sys_package>
         <sys_policy/>
@@ -62,7 +62,7 @@
         <sys_scope display_value="Git Video">78e1442c4f633200deb53ce18110c7df</sys_scope>
         <sys_update_name>sys_dictionary_x_134462_git_video_some_table_null</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-06-20 19:10:52</sys_updated_on>
+        <sys_updated_on>2017-06-21 16:39:56</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
